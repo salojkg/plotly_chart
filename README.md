@@ -10,4 +10,4 @@ The purpose of this project is to create an interactive dashboard which will hel
 - D3.js
 - Bootstrap
 
-Dashboard can be view at : https://salojkg.github.io/plotly_chart
+Dashboard can be viewed at : https://salojkg.github.io/plotly_chart
